@@ -1,0 +1,14 @@
+{
+  "HOME":{
+    "DESCRIPTION":"I am really passionate about my work, always wanting to connect with other developers and constantly learn.",
+    "WORK_EXPERIENCE_TITLE":"Work Experience",
+    "TECHNICAL_SKILLS": "Technical Skills",
+    "SENIOR_POSITION": "Senior Software Engineer",
+    "DEVELOPER_POSITION": "Software Developer Engineer",
+    "CURRENTLY": "Currently",
+    "ACHIEVEMENTS":"Achievements",
+    "MOVILE_ACHIEVE_1": "Development of platform in angular 4 which improved internal processes of the company.",
+    "MOVILE_ACHIEVE_2": "Development of applications with node as backend which gave good financial results for the company.",
+    "MOVILE_ACHIEVE_3": "Implementation of new technologies for the development of applications."
+  }
+}

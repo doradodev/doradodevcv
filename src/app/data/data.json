@@ -1,0 +1,11 @@
+{
+  "title": "HOME.WORK_EXPERIENCE_TITLE",
+  "position": "HOME.SENIOR_POSITION",
+  "workPlaceUrl": "https://movile.com/",
+  "workLogoUrl": "../assets/img/logos/logoMovile.svg",
+  "achievements": [{
+    "achieve" : "MOVILE_ACHIEVE_1"
+  },{
+    "achieve" : "HOME.ACHIEVE.MOVILE"
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "HOME":{
+    "DESCRIPTION":"Soy realmente un apasionado de mi trabajo, siempre con ganas de conectar con otros desarrolladores y aprender constantemente.",
+    "WORK_EXPERIENCE_TITLE":"Experiencia Laboral",
+    "TECHNICAL_SKILLS": "Habilidades Tecnicas",
+    "SENIOR_POSITION": "Ingeniero Senior de Desarrollo",
+    "DEVELOPER_POSITION": "Ingeniero Desarrollador de Software",
+    "CURRENTLY": "Actualmente",
+    "ACHIEVEMENTS":"Logros",
+    "MOVILE_ACHIEVE_1": "Desarrollo de Plataforma en angular 4 la cual mejoro procesos internos de la compañia.",
+    "MOVILE_ACHIEVE_2": "Desarrollo de aplicaciones con node como backend las cuales dieron buen resultado financiero para la compañia.",
+    "MOVILE_ACHIEVE_3": "Implementacion de nuevas tecnologias para el desarrollo de aplicaciones."
+  }
+}

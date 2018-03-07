@@ -1,0 +1,43 @@
+.img-profile{
+  border-radius: 50%;
+  border: 2px;
+  border-color: black;
+}
+h6{
+  font-weight: bolder;
+}
+.icon-float-es{
+
+  text-indent: 100%;
+  background-color: white;
+  background-image: url("../assets/img/icons/spain-32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+
+
+}
+
+.icon-float-en{
+  text-indent: 100%;
+  background-color: white;
+  background-image: url("../assets/img/icons/united-states-32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}
+
+.icon-float-li{
+  text-indent: 100%;
+  background-color: white;
+  background-image: url("../assets/img/icons/linkedin-32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.icon-float-git{
+  text-indent: 100%;
+  background-color: white;
+  background-image: url("../assets/img/icons/github-logo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
