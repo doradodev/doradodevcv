@@ -12,6 +12,15 @@ export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
+export const firebaseConfig = {
+
+  apiKey: 'AIzaSyA5-jEi5csj_dVopooVwxyPBEPEnTWO8WY',
+  authDomain: 'doradodevcv.firebaseapp.com',
+  databaseURL: 'https://doradodevcv.firebaseio.com',
+  storageBucket: 'doradodevcv.appspot.com',
+  messagingSenderId: '326450391095'
+};
+
 @NgModule({
   declarations: [
     AppComponent

@@ -1,10 +1,15 @@
+
 .img-profile{
   border-radius: 50%;
   border: 2px;
   border-color: black;
 }
 h6{
-  font-weight: bolder;
+  font-weight: 700;
+  font-size: 21px;
+  font-style: normal;
+
+
 }
 .icon-float-es{
 
@@ -40,4 +45,42 @@ h6{
   background-image: url("../assets/img/icons/github-logo.png");
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+.title-university{
+  color: black;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+}
+.title-label{
+  padding-top: 30px;
+}
+
+.title-degree{
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.date-label{
+  color: #f04e41;
+  font-size: 12px;
+  font-style: italic;
+
+}
+
+.bullet-label{
+  top:4px;
+  background-color: #f04e41;
+  width: 6px;
+  height: 6px;
+  float: left;
+  position: absolute;
+  display: block;
+}
+
+hr{
+
+  border-color: #f04e41;
 }

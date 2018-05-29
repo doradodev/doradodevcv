@@ -1,1 +1,54 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body{
+  font-family: Ubuntu;
+}
+
+ul > li {
+  color: #f04e41;
+}
+
+ul > li > p {
+  color: black;
+  text-decoration: none;
+  font-size: 13.5px;
+}
+
+.container-pdf{
+
+  padding-top: 4rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  background-color: white;
+}
+.personal-data{
+  padding-top: 4rem;
+}
+
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  src: url('/assets/fonts/MaterialIcons-Regular.eot');
+  src: url('/assets/fonts/MaterialIcons-Regular.eot?#iefix') format('embedded-opentype'),
+  url('/assets/fonts/MaterialIcons-Regular.woff2') format('woff2'),
+  url('/assets/fonts/MaterialIcons-Regular.woff') format('woff'),
+  url('/assets/fonts/MaterialIcons-Regular.ttf') format('truetype'),
+  url('/assets/fonts/MaterialIcons-Regular.svg#material_icons') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
