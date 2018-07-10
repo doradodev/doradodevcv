@@ -3,6 +3,7 @@ import {TranslateService} from '@ngx-translate/core';
 import  * as html2canvas from 'html2canvas';
 import * as jsPDF from 'jspdf';
 
+
 import {DOCUMENT} from "@angular/common";
 @Component({
   selector: 'app-root',
@@ -74,10 +75,11 @@ export class AppComponent {
   downloadPDF() {
 
     this.pdf = true;
-    const pdf = new jsPDF('p','pt','a4');
+    const pdf = new jsPDF('p', 'pt', 'a4');
     pdf.addHTML(this.container.nativeElement, 0, 0, () => {
       pdf.save('Christian-Dorado-CV' + new Date().getTime() + '.pdf');
       this.pdf = false;
     });
+
   }
 }
